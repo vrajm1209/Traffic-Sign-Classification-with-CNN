@@ -8,3 +8,5 @@ Perform image pre-processing. In this problem it involves coverting each image i
 Built a Convolutional Neural Network Model that is capable to classify the test images correctly, with the help of a training and validation set.
 To do the classifcation I built a Convulational Neural Network (CNN) is per the LeNet Network Architecture.
 Evaluate the classifcation results
+
+Dataset files (uploaded on Google Drive due to file size constraints)-
