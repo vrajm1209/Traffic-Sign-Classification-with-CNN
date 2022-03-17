@@ -9,4 +9,4 @@ Built a Convolutional Neural Network Model that is capable to classify the test 
 To do the classifcation I built a Convulational Neural Network (CNN) is per the LeNet Network Architecture.
 Evaluate the classifcation results
 
-Dataset files (uploaded on Google Drive due to file size constraints)-
+Dataset files (uploaded on Google Drive due to file size constraints)- https://drive.google.com/drive/folders/1dL2CJ_S9LgyNVdVCInc6TeSGRtJ1aHyS?usp=sharing
