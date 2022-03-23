@@ -6,8 +6,8 @@ I perform Deep Learning by building a Convolutional Neural Network (CNN).
 
 - Load image data
 - Perform image pre-processing. In this problem it involves coverting each image into a grey-scale and then normalizing it.
-Built a Convolutional Neural Network Model that is capable to classify the test images correctly, with the help of a training and validation set.
-To do the classifcation I built a Convulational Neural Network (CNN) is per the LeNet Network Architecture.
-Evaluate the classifcation results
+- Built a Convolutional Neural Network Model that is capable to classify the test images correctly, with the help of a training and validation set.
+- To do the classifcation I built a Convulational Neural Network (CNN) is per the LeNet Network Architecture.
+- Evaluate the classifcation results
 
 Dataset files (uploaded on Google Drive due to file size constraints)- https://drive.google.com/drive/folders/1dL2CJ_S9LgyNVdVCInc6TeSGRtJ1aHyS?usp=sharing
